@@ -1,0 +1,41 @@
+{
+    "appKeys": {},
+    "versionCode": 3,
+    "longName": "StrapFace",
+    "shortName": "StrapFace",
+    "capabilities": [
+        ""
+    ],
+    "versionLabel": "3.0.0",
+    "companyName": "Strap",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/Roboto-Bold.ttf",
+                "name": "FONT_ROBOTO_BOLD_SUBSET_49",
+                "characterRegex": "[:0-9]",
+                "type": "font"
+            },
+            {
+                "file": "fonts/Roboto-Condensed.ttf",
+                "name": "FONT_ROBOTO_CONDENSED_21",
+                "type": "font"
+            },
+            {
+                "file": "images/strap-icon-white-blackbg-d.png",
+                "name": "IMAGE_STRAP_LOGO",
+                "type": "png"
+            },
+            {
+                "file": "images/menu_icon_simplicity.png",
+                "menuIcon": true,
+                "name": "IMAGE_MENU_ICON",
+                "type": "png"
+            }
+        ]
+    },
+    "uuid": "030ee5fc-518b-49e5-b9b2-0700ee92af89"
+}
